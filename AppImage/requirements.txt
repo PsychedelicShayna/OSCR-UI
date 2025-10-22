@@ -1,1 +1,7 @@
--e /home/shayna/source/github/PsychedelicShayna/OSCR-UI
+wheels/oscr_ui-2025.9.14.0-py3-none-any.whl
+PySide6==6.8.0.2
+pyqtgraph==0.13.7
+numpy==1.26.4
+STO-OSCR>=2025.8.10.0
+OSCR-django-client>=2025.7.19.0
+pydantic>=2.7.3
