@@ -1,1 +1,1 @@
--e ..
+git+https://github.com/PsychedelicShayna/OSCR-UI.git@f4b7eff09403bb728eafe253860196206a39ac33#egg=OSCR-UI
