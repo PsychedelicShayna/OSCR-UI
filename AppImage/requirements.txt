@@ -1,1 +1,1 @@
--e /home/shayna/.local/bin/oscr_ui-2025.9.14.0
+git+https://github.com/PsychedelicShayna/OSCR-UI.git@full-update#egg=OSCR-UI
